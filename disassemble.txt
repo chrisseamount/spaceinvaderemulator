@@ -1,0 +1,1689 @@
+NOP
+NOP
+NOP
+
+
+
+NOP
+NOP
+
+
+
+
+
+
+NOP
+NOP
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+LXI  B, $da0f
+
+NOP
+
+
+
+
+
+NOP
+
+
+
+
+
+
+NOP
+
+LXI  B, $3227
+
+
+
+
+
+
+
+
+
+
+
+
+NOP
+
+
+
+
+
+NOP
+
+
+
+
+
+NOP
+
+
+
+
+NOP
+
+
+
+
+
+NOP
+
+
+RLC
+
+LXI  B, $ea32
+
+
+NOP
+
+
+
+
+
+
+
+
+NOP
+LXI  B, $48cd
+STAX  B
+
+
+NOP
+
+
+
+
+
+
+NOP
+NOP
+NOP
+NOP
+
+
+
+
+
+
+
+
+NOP
+
+
+
+
+
+NOP
+
+
+RRC
+
+
+NOP
+
+
+
+STAX  B
+
+
+LXI  B, $82c3
+NOP
+
+
+NOP
+
+
+
+
+
+
+
+
+
+
+
+INX  B
+
+
+NOP
+
+
+NOP
+
+
+
+NOP
+
+
+NOP
+
+
+
+
+STAX  B
+
+
+
+
+
+
+
+
+NOP
+NOP
+NOP
+NOP
+NOP
+NOP
+NOP
+NOP
+NOP
+NOP
+NOP
+NOP
+NOP
+NOP
+NOP
+NOP
+NOP
+NOP
+NOP
+NOP
+NOP
+NOP
+NOP
+NOP
+NOP
+NOP
+NOP
+NOP
+NOP
+NOP
+NOP
+
+STAX  B
+
+
+
+
+
+
+
+MVI  B, $6f
+
+
+
+
+
+
+
+
+LXI  B, $2323
+
+
+
+
+
+RLC
+RLC
+RLC
+
+
+NOP
+
+NOP
+
+
+
+
+
+
+
+LXI  B, $062a
+
+
+
+
+
+
+NOP
+
+
+
+NOP
+
+
+
+
+
+
+
+
+NOP
+
+
+
+
+
+
+MVI  B, $16
+STAX  B
+
+
+
+
+
+LXI  B, $466f
+DCR  B
+
+
+LXI  B, $0632
+
+
+LXI  B, $2261
+
+
+
+
+
+
+
+
+INR  B
+
+LXI  B, $0032
+
+
+NOP
+
+
+
+
+
+
+
+
+LXI  B, $5fde
+
+
+
+
+
+
+
+
+LXI  B, $a768
+
+
+
+
+
+
+
+
+
+
+LXI  B, $ca15
+
+LXI  B, $0621
+
+NOP
+
+
+
+NOP
+
+
+LXI  B, $0521
+
+
+
+LXI  B, $af77
+
+
+
+
+NOP
+
+NOP
+
+MVI  B, $37
+
+LXI  B, $0523
+
+
+LXI  B, $e1c9
+
+
+LXI  B, $e006
+
+STAX  B
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+MVI  B, $c0
+
+NOP
+
+
+NOP
+
+
+
+
+
+
+
+
+LXI  B, $4221
+
+MVI  C, $04
+
+
+
+MVI  B, $2c
+
+
+
+
+
+
+LXI  B, $3ec9
+LXI  B, $1bc3
+STAX  B
+
+LXI  B, $14c3
+STAX  B
+
+
+
+
+
+
+STAX  B
+
+
+
+
+
+
+LXI  B, $1602
+
+MVI  B, $28
+
+INR  B
+
+
+
+
+
+
+
+STAX  B
+
+
+
+
+
+
+
+
+
+
+STAX  B
+
+
+
+
+STAX  B
+
+
+
+
+
+STAX  B
+
+
+
+
+
+
+
+
+
+
+STAX  B
+
+
+
+
+
+
+
+STAX  B
+
+
+
+
+
+STAX  B
+
+
+
+
+
+
+
+
+
+STAX  B
+
+
+
+
+
+NOP
+
+
+
+STAX  B
+DCR  B
+INR  B
+
+
+STAX  B
+
+DCR  B
+
+
+
+
+
+NOP
+
+
+
+STAX  B
+
+
+
+
+
+STAX  B
+
+
+
+
+
+
+
+INX  B
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+DCR  B
+
+
+
+
+INX  B
+
+
+MVI  B, $10
+
+
+
+
+
+
+
+
+MVI  B, $10
+
+
+
+MVI  B, $00
+
+
+
+
+
+
+
+
+
+
+
+
+NOP
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+INX  B
+
+
+
+
+
+INX  B
+
+
+
+RRC
+
+
+INX  B
+
+MVI  C, $02
+
+
+NOP
+
+
+
+
+
+
+NOP
+
+
+LXI  B, $0ff1
+
+
+MVI  B, $00
+
+
+INX  B
+MVI  B, $3e
+
+
+
+
+
+
+
+
+
+
+DCR  B
+
+
+
+
+
+
+
+
+
+
+RLC
+
+
+
+
+
+NOP
+
+STAX  B
+
+
+STAX  B
+NOP
+NOP
+NOP
+
+
+
+LXI  B, $7e23
+
+
+
+INX  B
+NOP
+
+
+LXI  B, $1b3a
+
+
+
+
+
+
+INX  B
+
+
+RRC
+
+
+INX  B
+RRC
+
+
+INX  B
+
+
+INX  B
+
+
+
+RLC
+RLC
+
+
+INX  B
+RLC
+
+
+INX  B
+
+
+
+
+
+
+
+
+
+
+
+
+NOP
+
+
+
+
+
+
+
+
+INX  B
+
+
+
+
+
+INX  B
+
+
+
+
+
+INX  B
+
+
+
+
+
+INX  B
+
+
+LXI  B, $1532
+RLC
+RLC
+RLC
+RLC
+
+
+
+
+
+
+
+
+
+INX  B
+
+
+INX  B
+
+
+
+
+INX  B
+
+
+INX  B
+
+
+
+MVI  B, $1a
+
+
+
+
+
+
+
+LXI  B, $faca
+INX  B
+
+STAX  B
+
+INR  B
+
+
+INX  B
+
+
+INR  B
+
+
+
+INR  B
+
+
+RRC
+
+
+
+
+INR  B
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+NOP
+
+
+INR  B
+
+NOP
+
+
+
+
+
+
+NOP
+
+
+
+
+INR  B
+
+NOP
+
+
+
+INR  B
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+STAX  B
+
+
+DCR  B
+
+
+
+INR  B
+
+
+
+
+
+
+
+INR  B
+
+
+
+
+
+
+
+
+MVI  B, $07
+
+
+
+
+
+
+
+
+
+
+
+INR  B
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+LXI  B, $2901
+STAX  B
+
+
+INR  B
+LXI  B, $fee0
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+INR  B
+
+
+
+
+
+
+
+
+
+
+DCR  B
+
+
+
+
+
+
+
+
+
+
+DCR  B
+
+
+
+
+
+
+
+DCR  B
+
+
+
+
+
+MVI  B, $10
+
+
+
+
+
+
+
+
+
+
+
+LXI  B, $11c0
+
+
+
+
+
+DCR  B
+
+
+
+
+
+
+
+
+
+
+DCR  B
+
+
+
+
+
+
+INR  B
+
+
+
+
+
+
+
+
+
+
+
+
+DCR  B
+
+
+
+
+
+MVI  B, $10
+
+
+
+
+
+
+
+NOP
+DCR  B
+
+LXI  B, $6e32
+
+
+
+
+MVI  B, $e1
+
+
+
+
+
+
+DCR  B
+
+
+
+
+
+
+
+
+
+
+DCR  B
+
+
+
+
+
+
+DCR  B
+
+
+
+
+
+
+
+
+
+
+
+
+DCR  B
+
+
+
+
+
+MVI  B, $10
+
+
+
+
+
+
+
+
+
+
+
+
+MVI  B, $c3
+
+
+
+
+MVI  B, $c3
+
+
+
+
+
+
+
+
+
+DCR  B
+
+
+
+INR  B
+
+
+
+
+DCR  B
+
+
+
+
+NOP
+
+
+
+
+
+DCR  B
+
+
+
+
+
+
+
+
+
+
+DCR  B
+
+
+
+
+
+
+
+
+
+
+MVI  B, $2a
+
+
+
+NOP
+
+
+
+
+MVI  B, $d0
+
+
+LXI  B, $c679
+RLC
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+MVI  B, $1a
+
+
+
+
+LXI  B, $44c2
+MVI  B, $23
+
+
+
+MVI  B, $3a
+
+
+INX  B
+
+
+
+
+
+DCR  B
+
+
+
+
+
+
+
+
+
+
+
+
+
+MVI  B, $3a
+
+
+
+
+
+MVI  B, $3a
+
+
+
+
+
+
+
+
+
+MVI  B, $fe
+
+NOP
+
+
+MVI  B, $97
+
+
+
+
+
+LXI  B, $7332
+
+
+
+
+NOP
+
+
+
+
+
+
+
+
+DCR  B
+MVI  C, $c3
+
+DCR  B
+
+
+
+
+
+DCR  B
+
+
+
+
+
+
+
+
+
+
+MVI  B, $c9
+
+
+
+
+
+INX  B
+
+
+MVI  B, $cd
+
+MVI  B, $21
+
+
+
+
+
+
+
+
+
+
+
+
+MVI  B, $32
+
+
+
+MVI  B, $a7
+
+
+
+MVI  B, $21
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+STAX  B
+
+
+
+
+
+
+RRC
+DCR  B
+
+
+
+
+RRC
+DCR  B
+
+
+
+
+
+MVI  B, $3a
+
+
+NOP
+
+RRC
+DCR  B
+
+LXI  B, $3ccd
+RLC
+
+
+
+MVI  B, $1a
+
+
+
+
+
+
+
+MVI  B, $21
+
+
+
+
+
+
+
+
+
+RLC
+
+
+
+
+
+
+
+MVI  B, $fe
+
+
+
+MVI  B, $c9
+MVI  B, $fe
+
+
+
+
+
+
+
+
+
+
+RLC
+
+
+
+RLC
+
+
+MVI  B, $ef
+
+
+
+
+
+
+
+DCR  B
+NOP
+NOP
+NOP
+
+
+RLC
+
+
+
+
+
+MVI  B, $cd
+
+RLC
+MVI  B, $fe
+
+
+
+
+LXI  B, $f132
+
+
+
+MVI  C, $04
+
+
+
+
+
+
+
+
+
+
+RLC
+
+
+
+
+RLC
+
+
+
+
+NOP
+
+
+
+
+
+
+
+
+
+RLC
+
+
+NOP
+
+
+RLC
+
+
+
+
+
+
+
+
+
+
+
+MVI  B, $10
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+RLC
+
+
+
+
+
+
+
+LXI  B, $9332
+
+NOP
+
+
+
+
+
+
+
+
+
+
+
+
+
+MVI  C, $04
+
+
+NOP
+
+
+
+
+
+
+MVI  C, $14
+
+
+NOP
+
+
+
+
+
+NOP
+
+LXI  B, $04e6
+
+
+RLC
+MVI  B, $99
+
+
+
+
+
+
+
+
+
+
+
+
+
+NOP
+NOP
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+LXI  B, $7c01
+
+
+
+
+
+
+
+
+
+
+
+LXI  B, $f5cd
+LXI  B, $d1cd
+NOP
+
+
+
+
+
+
+
+
+NOP
+
+
+
+
+
+
+
+
+
+LXI  B, $04cd
+
+
+
+
+
+
+
+
+
+
+
+
+LXI  B, $7fcd
+
+
+
+NOP
+
+
+NOP
